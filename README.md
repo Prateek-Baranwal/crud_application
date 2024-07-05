@@ -1,5 +1,4 @@
 
-. Project Overview
 This project is an admin panel built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides   functionalities for user registration, login, logout, and CRUD operations on users. Additional features include password encryption, role-based access control, form validation, pagination, search, and error handling.
 
 Installation and Setup
